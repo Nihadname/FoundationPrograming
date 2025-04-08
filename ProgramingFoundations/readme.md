@@ -76,3 +76,68 @@ comparing binary notation by adding each new digit?**
 **How many numbers can you represent in 4 bytes?**
 
 4byte=32 bitdir her bit bir binary digitdir  yeni 2ustunde 32 =4,294,967,296 bizim cavabimizdir
+
+12.a
+
+**What is the basis of the ternary counting system?** 
+
+3 dene hansiki 0,1,2 kimi deye bilerik
+
+12.b
+
+**What is the exponent of the ternary numeral system?** 
+
+3 ustunde n  hansiki bu binaryde 2 ustunde n  
+
+12.c
+
+**Can you write down the sequence of all ternary numbers with length
+3? For example 100, 101, 102, 110, 111, 112, 120, 121, 122, ….**
+
+000,001,002,010,011,012,020,021,022,100,101,102,110,111,112,120,121,122,200,201,202,210,211,212,220,221,222
+
+12.d
+
+**With the addition of each digit in the ternary system, how many times
+do we increase the number of ternary numbers we can represent?**
+
+3 defe artir deyek meselen 1 digit ile nece dene ola biler 0,1,2 bu olsa 2 digitli olur 00,01,02,10,11,12,20,21,22  9 deneye  cixir
+
+12.e
+
+ **Can you convert decimal to ternary and vice versa?**
+
+biz nece binaryde 2 ye bolub edirdik burdada eyni 3 bole bole gedirik qalan qalig yoxdusa 0 varsa qalan qaliq meselen 36/3 =12 ,12/3=4,4/3=1,1/3 =0,  olur 1100.He, desekki , ternary ni cevirek decimala oda binarye oxsa bu defe biz 2ustunde 0 dan baslayib axra kimi  artiqmaq yerine 3 ustunde edirik 
+
+12.f
+
+**How many ternary numbers do we need to represent an arbitrary
+decimal number? can you come up with an equation? can you prove
+it? (for example, to represent decimal number 12 in ternary we need 3
+ternary numbers, to represent decimal number 118 (= 1 1 1 0 1) we need
+5 ternary numbers)**
+
+demeli dustur bele olur biz decimali ternarye cevirmek ucun onu 3 bolurduk ok burdaki reqem bize neticeni verir amma hemise gerek 1  elave  ederdik ki biz digit sayini tapaq indi burdan dustur qursaq bele olur [log3ustunde n]+1 
+
+![WhatsApp Image 2025-04-08 at 17.29.35_8124c788.jpg](attachment:b0cea9c8-7ac1-4de3-9a7f-d1eeaa841b9b:WhatsApp_Image_2025-04-08_at_17.29.35_8124c788.jpg)
+
+12.g
+
+**How many times more numbers can we represent in the decimal
+system when comparing the ternary system by adding each new digit?**
+
+10ustunde n\3ustunde n
+
+12.h
+
+**How many times more numbers can we represent in the ternary
+system when comparing the binary system by adding each new digit?**
+
+3ustunde n/2 ustunde n
+
+13.
+
+**Can you see the general patterns between decimal, binary, and ternary
+number systems?**
+
+3du  ortaq olaraq exponatial vezyetde artir onlarin hecmi ise basden aslidir , hamisin convert yollari eynidir sadece deyisen baselerdir.Istifade yerleri nisbeten ferqlidir binary daha cox eloktrinakda ve komputerlerin isleme prinsipini oz ustune goturur  Transistorlarda sesin , elektriyin ifadesinde istifade olunur hansiki, bes niye diger say sistemleri olmur cunki bu daha cox elektronika engineringin limitleri ile elaqesi var deyekki bizde decimal olsa onda datanin sehv eleme  ehtimali daha da coxalir
